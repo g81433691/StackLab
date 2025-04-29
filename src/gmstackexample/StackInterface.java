@@ -5,7 +5,7 @@
 package gmstackexample;
 /**
  * minimal interface for a stack 
- * @author EThornbury// but added additional fo
+ * @author EThornbury
  */
 public interface StackInterface{
  public void push(Object newItem);
